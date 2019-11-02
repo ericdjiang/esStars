@@ -150,7 +150,7 @@ box-shadow: 10px 2px 45px -6px rgba(0,0,0,1);
     width:80%;
 /*    max-width: 400px;*/
 /*    margin: 30px auto;*/
-    padding: 20px;
+    padding: 20px 20px 0 20px;
     
     background-color:white;
     border: 1px solid white;
@@ -218,12 +218,11 @@ box-shadow: 10px 2px 45px -6px rgba(0,0,0,1);
 
     width: 100%;
     height: 50px;
-    padding: 10px 10px;
     border-radius: 30px;
     background-color: #FFF;
     display: block;
     overflow: hidden;
-    box-shadow: 0 1px #CCC, 0 5px #DDD, 0 9px 6px -3px #999;
+    /*box-shadow: 0 1px #CCC, 0 5px #DDD, 0 9px 6px -3px #999;*/
     unicode-bidi: bidi-override;
     direction: rtl;
     
